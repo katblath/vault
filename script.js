@@ -1,6 +1,8 @@
-// create three calculations to create three code in a combo
-// combo is 10 40 49 so first calculation will be 5+5, second calculation will be 100-60, and last calculation will be 13*3
-// put it in a dialog box
+// create three calculations to apply to three parts of a combination code
+// combo is 10 40 39 so first calculation will be 5+5, second calculation will be 100-60, and last calculation will be 13*3
+// put it in a dialog box, aka alert
+// comment stuff where necessary
+
 // below is alternate way to display the message without using alert
 //let para = document.querySelector("p");
 let message = "Here is the secret combo";
